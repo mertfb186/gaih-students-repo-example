@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 05.08.2021-09.08.2021
+**Course Date:** 05.08.2021-09.08.2021                       
 **Name:** Mert  
 **Surname:** Yardımcı  
 **Email:** l6520054@std.yildiz.edu.tr 
